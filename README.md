@@ -25,7 +25,7 @@ LocalStorage – To persist data across sessions
 🚀 Getting Started
 *Steps to Run Locally
 *Clone this repository:
-*git clone https://github.com/your-username/expense-tracker.git
+*git clone https://github.com/keerthana071004/Expense-Tracker
 *Open index.html in your preferred browser.
 *No server setup required — it's 100% front-end!
 
